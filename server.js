@@ -29,11 +29,11 @@ fs.readFile("db/db.json", "utf8", (err, data) => {
         res.json(notes)
     })
 
-    // app.post('/api/notes', (req, res) => {
-    //     let newNote = req.body
-    //     notes.push(newNote)
-    //     console.log(newNote);
-    // })
+    app.post('/api/notes', (req, res) => {
+        let newNote = req.body
+        notes.push(newNote)
+        console.log(newNote);
+    })
 
 })
 
