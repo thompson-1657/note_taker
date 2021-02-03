@@ -36,12 +36,12 @@ http://localhost:3000
 ```
 on the user's preferred browser.
 
-This application is also deployed live for your use on [Heroku]()!
+This application is also deployed live for your use on [Heroku](https://stark-oasis-46489.herokuapp.com/)!
         
 ## Usage
 ---
 
-![recording](https://user-images.githubusercontent.com/71091515/106697972-7745bb80-65a5-11eb-8b9e-e1c949207fb2.gif)
+[![recording](https://user-images.githubusercontent.com/71091515/106697972-7745bb80-65a5-11eb-8b9e-e1c949207fb2.gif)](https://stark-oasis-46489.herokuapp.com/)
 
 To use the application simply click on the 
 ```
