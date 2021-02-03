@@ -61,11 +61,11 @@ the user can input the body of the new note. Once the note is filled out to the 
 
 at the top right to save the new note. 
 
-The newly saved note title will appear on the left hand side of the application where the user can easily toggle between the saved notes to acquire the information they need.
+The newly saved note title will appear on the left-hand side of the application where the user can easily toggle between the saved notes to acquire the information they need.
 
 <img width="292" alt="Screen Shot 2021-02-02 at 10 08 44 PM" src="https://user-images.githubusercontent.com/71091515/106696930-5e3c0b00-65a3-11eb-91c8-d805d9845056.png">
 
-Clicking on any note title will retrieved the saved contents of the note.
+Clicking on any note title will retrieve the saved contents of the note.
 
 <img width="292" alt="Screen Shot 2021-02-02 at 10 08 44 PM" src="https://user-images.githubusercontent.com/71091515/106697767-10c09d80-65a5-11eb-9dcc-bec151207af1.png">
 
